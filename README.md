@@ -19,3 +19,5 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+# (Por algum motivo que não conheço não consegui instalar o Kali linux)
